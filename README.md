@@ -132,6 +132,7 @@ Any unspecified functions are de facto banned, except for bonus features.
 Your project will be entirely evaluated with Automated Tests, by analyzing your source files and configuration files.
 
 In order to be correctly evaluated, your repository must at least contain the following files:
+```
 .
 | - - my_runner
 | - - map
@@ -140,3 +141,4 @@ In order to be correctly evaluated, your repository must at least contain the fo
 | - - .legend
 | - - bonus
 | | - - // bonus files here
+```
